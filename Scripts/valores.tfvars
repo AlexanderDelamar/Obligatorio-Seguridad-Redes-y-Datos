@@ -1,3 +1,6 @@
+# Variables provider
+regionProvider = "us-east-1"
+perfil = "default"
 # Variables de Cluster
 eksName          = "obli-EKS-Wordpress"
 nodegroupName    = "Obli-Node-Wordpress"
